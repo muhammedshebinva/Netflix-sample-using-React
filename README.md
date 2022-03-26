@@ -20,11 +20,11 @@ You may also see any lint errors in the console.
 A simple GUI version Netflix using React.
 <br/>
 ### Languages & tools :
-[<img align="left" alt="VS Code" width="26px" src="./Img/visual-studio-code.png">]
-[<img align="left" alt="React" width="26px" src="./Img/react-js.png">]
+<img align="left" alt="VS Code" width="26px" src="./Img/visual-studio-code.png">
+<img align="left" alt="React" width="26px" src="./Img/react-js.png">
 <br/><br/>
 
-|<img src="./Img/netflixClone.png" width="750">|
+|<img src="./Img/netflixClone.png" width="100%">|
 
 
 
